@@ -1,8 +1,9 @@
 ---
 layout: post
-categories: analysis
 title: Education and salaries, a stackoverflow perspective
 slug: education-and-salaries-a-stackoverflow-perspective
+categories: analysis
+published: true
 related_image: /images/stackoverflow.png
 ---
 

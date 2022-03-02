@@ -4,7 +4,6 @@ layout: post
 published: true
 categories: analysis
 title: Education and salaries, a stackoverflow perspective
-slug: education-and-salaries-a-stackoverflow-perspective
 related_image: /images/stackoverflow.png
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: You're up and running!
+published: false
 related_image: /images/config.png
 ---
 

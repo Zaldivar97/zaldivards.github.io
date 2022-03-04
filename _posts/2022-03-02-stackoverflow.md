@@ -65,7 +65,7 @@ Could the type of company or the interest in what they work on influence on thei
 
 To answer that I focused on the subset of respondents that are *greatly overpaid*. This is what I found about this subset's job satisfaction based on their **company type** and **the importance for them of their functions in relation to their salaries**:
 
-|Based on company type|Based of functions importance|
+|Based on company type|Based on functions importance|
 |-------------------------|-------------------------|
 |![Sixth char](/images/stackoverflow7.png)|![Seventh char](/images/stackoverflow9.png)|
 

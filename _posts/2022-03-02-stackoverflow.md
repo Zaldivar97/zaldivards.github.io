@@ -5,6 +5,7 @@ slug: education-salaries-and-job-satisfaction-a-stackoverflow-perspective
 categories: analysis
 published: true
 related_image: /images/stackoverflow15.png
+excerpt_separator: <!--more-->
 ---
 
 <img src="../images/stackoverflow15.png" style="display: block;margin-left: auto;margin-right: auto;width: 50%;"/>
@@ -12,7 +13,7 @@ related_image: /images/stackoverflow15.png
 
 Have you ever asked yourself what is the relation between education and salaries in the IT field, is there any incidence? I have.
 Nowadays this is very interesting because most of the times a professional degree is often not necessary to reach a developer role in the top companies. You, your colleages and I may have different point of views about it.
-
+<!--more-->
 But, what do the data suggest about this? To going further with this broad question, I used Stackoverflow’s 2017 Annual Developer Survey.
 I checked all the available data within the dataset and I came across with 3 questions that I think it would be interesting to answer.
 

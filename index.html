@@ -13,7 +13,8 @@ layout: default
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
       <div class="entry">
-        {{ post.excerpt | remove_first:page.excerpt}}
+        {% assign excerptParts = post.excerpt | split: "<!-- excerpt-start -->" %}
+        {{excerptParts[1]}}
       </div>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>

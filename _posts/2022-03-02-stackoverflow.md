@@ -4,8 +4,11 @@ title: Education, salaries and job satisfaction, a stackoverflow perspective
 slug: education-salaries-and-job-satisfaction-a-stackoverflow-perspective
 categories: analysis
 published: true
-related_image: /images/stackoverflow.png
+related_image: /images/stackoverflow15.png
 ---
+<p align="center">
+  <img src="../images/stackoverflow15.png"/>
+</p>
 
 Have you ever asked yourself what is the relation between education and salaries in the IT field, is there any incidence? I have.
 Nowadays this is very interesting because most of the times a professional degree is often not necessary to reach a developer role in 

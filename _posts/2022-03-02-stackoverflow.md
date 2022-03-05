@@ -8,7 +8,7 @@ related_image: /images/stackoverflow15.png
 excerpt_separator: <!--more-->
 ---
 
-<p><img src="../images/stackoverflow15.png"/></p>
+<p align="center"><img src="../images/stackoverflow15.png"/></p>
 <br>
 <!-- excerpt-start -->
 Have you ever asked yourself what is the relation between education and salaries in the IT field, is there any incidence? I have.

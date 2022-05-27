@@ -83,8 +83,8 @@ remote_theme: "jeffreytse/jekyll-theme-yat"
 
 # Exclude these files from your production _site
 exclude:
-  - Gemfile
-  - Gemfile.lock
+#   - Gemfile
+#   - Gemfile.lock
   - LICENSE
   - README.md
   - CNAME

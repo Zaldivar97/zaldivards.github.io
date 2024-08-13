@@ -4,23 +4,33 @@ title: About
 permalink: /about/
 ---
 
-Hey there! My name is Christian Zaldivar, this is my miniblog. Here I will be sharing some relevant information about Data science and Python development.
+### About Me
 
-### More Information
+Hi there! I'm Christian Zaldivar, and I'm excited to share my passion for data and technology on my miniblog.
 
-I'm 25 years old and I'm from El Salvador, yep, the bitcoin country. Currently I'm colaborating in my company as a Data scientist. However, I'm also a Java and Python developer. By the way, those are my favorite programing languages due to their strong oop patterns. 
+### Background
 
-Data science, I know this field is huge, that's why I'm always learning new stuff related with data analysis, data pipelines and my favorite ones: machine learning and deep learning. In my current company **The DataWay**, my daily tasks are related with time series forecasting, client segmentation, basket analysis, etc.
+I'm a 27-year-old Salvadoran with a deep interest in using data to solve real-world problems. As a Senior Python Developer, I've had the opportunity to work on a variety of projects involving data analysis, machine learning, and artificial intelligence (AI).
 
-The following are some algorithms I have used:
-- Facebook Prophet
-- ARIMA
-- Holt-Winter
-- LSTM
-- Kmeans
-- Apriori
-- DecisionTree 
+### Expertise
 
-### Contact me
+I'm particularly interested in helping businesses make better decisions by using data. I've worked on projects involving:
 
-[herrerachristian1897@gmail.com](mailto:herrerachristian1897@gmail.com)
+- Predicting future trends
+- Identifying customer patterns
+- Improving product recommendations
+- LLM-powered products
+- API design and implementation
+
+### Skills and Experience
+
+I have knowledge about a range of tools, including:
+
+- Python
+- AWS
+- SQL
+- LLM integration
+- Machine learning algorithms
+- Data visualization
+
+I'm also a strong communicator and I'm passionate about sharing my knowledge with others.

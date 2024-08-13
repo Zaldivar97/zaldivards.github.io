@@ -7,7 +7,9 @@ layout: default
     <article class="post">
       <div>
       {% if post.related_image %}
+      <div class="image-container">
         <img src="{{post.related_image}}" alt="Not found">
+      </div>
       {% endif %}
       </div>
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>

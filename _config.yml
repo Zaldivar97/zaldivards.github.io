@@ -8,7 +8,7 @@ name: Christian Zaldivar
 excerpt_separator: <!--more-->
 
 # Short bio or description (displayed in the header)
-description: Sr Python Engineer
+description: Sr. Python Engineer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars.githubusercontent.com/u/32210667?s=400&u=8a1ce4341746fd9de8acdfdaa17d2b79977c052d&v=4
@@ -49,7 +49,6 @@ url: http://zaldivards.github.io
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
 
 #
 # !! You don't need to change any of the configuration flags below !!
@@ -79,7 +78,10 @@ sass:
 #   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
 #   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
-remote_theme: jeffreytse/jekyll-theme-yat
+remote_theme: "jeffreytse/jekyll-theme-yat@v1.10.0"
+
+# plugins:  
+#   - jekyll-remote-theme
 
 # Exclude these files from your production _site
 exclude:
